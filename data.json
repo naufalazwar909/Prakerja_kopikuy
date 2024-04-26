@@ -1,0 +1,122 @@
+{
+    "Kopi": [
+        {
+            "nama": "Vietnam Drip",
+            "size": "150 ml",
+            "harga": "20.000",
+            "link": "#",
+            "foto": "https://www.humaniora.id/wp-content/uploads/2023/08/bzY6hkQp7b.jpg"
+        },
+        {
+            "nama": "Cappucchino",
+            "size": "200 ml",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://www.livingnorth.com/images/media/articles/food-and-drink/eat-and-drink/coffee.png?fm=pjpg&w=1000&q=95"
+        },
+        {
+            "nama": "Caramel Macchiato",
+            "size": "200 ml",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/caa21cd668b93fadaad07fefc530ace5/Derivates/6b93b4ab826fe249292790890b8f2e96d6f6f1b4.jpg"
+        },
+        {
+            "nama": "Kopi Susu",
+            "size": "200 ml",
+            "harga": "22.000",
+            "link": "#",
+            "foto": "images/produk/product_kopi_susu.jpg"
+        }
+    ],
+    "Non Kopi": [
+        {
+            "nama": "Coklat Panas",
+            "size": "150 ml",
+            "harga": "22.000",
+            "link": "#",
+            "foto": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2018/11/05/347161008.jpg"
+        },
+        {
+            "nama": "Es Teh",
+            "size": "150 ml",
+            "harga": "18.000",
+            "link": "#",
+            "foto": "https://nilaigizi.com/assets/images/produk/produk_1578041377.jpg"
+        },
+        {
+            "nama": "Jahe Susu",
+            "size": "150 ml",
+            "harga": "18.000",
+            "link": "#",
+            "foto": "https://cdn.yummy.co.id/content-images/images/20220320/iaHdAhSJioKYsXzCZMCFgrBLBlmfWVvL-31363437373832323031d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp"
+        },
+        {
+            "nama": "Soda Gembira",
+            "size": "200 ml",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://awsimages.detik.net.id/community/media/visual/2022/12/10/soda-gembira-baru-viral-di-luar-negeri-pakar-soroti-kandungan-gulanya-1.jpeg?w=640"
+        }
+    ],
+    "Makanan": [
+        {
+            "nama": "Nasi Goreng",
+            "size": "1 porsi",
+            "harga": "30.000",
+            "link": "#",
+            "foto": "https://www.andy-cooks.com/cdn/shop/articles/20230527000540-andy-20cooks-20-20nasi-20goreng.jpg?v=1690354810"
+        },
+        {
+            "nama": "Nasi Ayam Goreng",
+            "size": "1 Porsi",
+            "harga": "25.000",
+            "link": "#",
+            "foto": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/91/MTA-120757202/no_brand_nasi_ayam_goreng_serundeng_full01_d9rwrp2s.jpg"
+        },
+        {
+            "nama": "Spaghheti Bolognese",
+            "size": "1 Porsi",
+            "harga": "35.000",
+            "link": "#",
+            "foto": "https://www.slimmingeats.com/blog/wp-content/uploads/2010/04/spaghetti-bolognese-36-735x735.jpg"
+        },
+        {
+            "nama": "Ayam Geprek",
+            "size": "1 pcs",
+            "harga": "3.000",
+            "link": "#",
+            "foto": "https://www.sasa.co.id/medias/page_medias/Cara_Membuat_Ayam_Geprek.jpg"
+        }
+    ],
+    "Menu Lainnya": [
+        {
+            "nama": "Mendoan",
+            "size": "5 pcs",
+            "harga": "15.000",
+            "link": "#",
+            "foto": "https://img.kurio.network/QH1TeX-2eRQ559hB1dTfR4ZEcBs=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/21/02/24/4f99af33-b3c1-47cd-a219-f1a5289f8b29.jpe"
+        },
+        {
+            "nama": "Kentang Goreng",
+            "size": "1 porsi",
+            "harga": "15.000",
+            "link": "#",
+            "foto": "https://asset-a.grid.id/crop/0x0:0x0/x/photo/2023/02/04/cara-membuat-kentang-goreng-reny-20230204071836.jpg"
+        },
+        {
+            "nama": "Pisang Goreng Coklat Keju",
+            "size": "1 porsi",
+            "harga": "15.000",
+            "link": "#",
+            "foto": "https://www.sasa.co.id/medias/page_medias/16251286131623847721931652.png"
+        },
+        {
+            "nama": "Es Krim Coklat",
+            "size": "1 Scoups",
+            "harga": "15.000",
+            "link": "#",
+            "foto": "https://img-global.cpcdn.com/recipes/daba3f887aa2edd1/680x482cq70/3-bahan-saja-jadi-es-krim-yang-sangat-enak-dan-lembut-foto-resep-utama.jpg"
+        }
+    ]
+}
