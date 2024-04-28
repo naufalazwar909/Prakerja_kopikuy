@@ -562,7 +562,7 @@ footer div.navigasi a {
 
    header div.kiri,
    header div.kanan {
-      widht: 100%;
+      width: 100%;
       padding: 30px;
       text-align: center;
    }
@@ -570,11 +570,11 @@ footer div.navigasi a {
    div.produk,
    div.team,
    div.kontak {
-      widht: 50%;
+      width: 50%;
    }
 
    div.testimoni {
-      widht: 100%;
+      width: 100%;
       padding: 20px;
       margin-bottom: 30px;
    }
